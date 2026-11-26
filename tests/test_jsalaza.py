@@ -1,3 +1,4 @@
+# Prueba de integración bottom-up — J. Salaza
 from app.order_service import OrderService
 from app.payment_gateway import PaymentGateway
 from tests.support.fake_db import FakeDb
